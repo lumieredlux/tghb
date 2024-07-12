@@ -1,0 +1,5 @@
+
+pyromod
+TgCrypto
+telethon
+rich==13.3.1
